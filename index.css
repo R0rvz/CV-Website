@@ -1,0 +1,88 @@
+/*
+        .--'''''''''--.
+     .'      .---.      '.
+    /    .-----------.    \
+   /        .-----.        \
+   |       .-.   .-.       |
+   |      /   \ /   \      |
+    \    | .-. | .-. |    /
+     '-._| | | | | | |_.-'
+         | '-' | '-' |
+          \___/ \___/
+       _.-'  /   \  `-._
+     .' _.--|     |--._ '.
+     ' _...-|     |-..._ '
+            |     |
+            '.___.'
+              | |
+             _| |_
+            /\( )/\
+           /  ` '  \
+          | |     | |
+          '-'     '-'
+          | |     | |
+          | |     | |
+          | |-----| |
+       .`/  |     | |/`.
+       |    |     |    |
+       '._.'| .-. |'._.'
+             \ | /
+             | | |
+             | | |
+             | | |
+            /| | |\
+          .'_| | |_`.
+          `. | | | .'
+       .    /  |  \    .
+      /o`.-'  / \  `-.`o\
+     /o  o\ .'   `. /o  o\
+     `.___.'       `.___.'
+
+
+R0rvz was here.
+
+*/
+
+.github {
+  display: inline-block;
+  margin-left: auto;
+  vertical-align: middle;
+  padding-right: 25px;
+}
+
+.twitter {
+  display: inline-block;
+  margin-left: auto;
+  vertical-align: middle;
+
+}
+
+.nav_menu {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background-color:#FF4057;
+  }
+
+body {
+    background-color: #282634;
+}
+
+
+.copyright_section {
+  width: 100%;
+  float: left;
+  background-color: black;
+  height: auto;
+  padding-bottom: 100%;
+ 
+ 
+}
+
+.logo {
+
+ text-align: center;
+
+}
+
